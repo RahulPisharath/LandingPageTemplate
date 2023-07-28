@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Fort;
+    font-display: swap;
+    src: url(../fonts/Fort-Bold.woff2) format("woff2"),
+        url(../fonts/Fort-Thin.tff) format("truetype"),
+        url(../fonts/Fort-Thin.otf) format("opentype");
+    font-weight: 100;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Fort;
+    font-display: swap;
+    src: url(../fonts/Fort-Light.woff2) format("woff2");
+    font-weight: 100;
+    font-style: normal
+}
